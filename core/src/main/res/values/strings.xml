@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="retry">Retry</string>
+    <string name="username_must_be_filled">Username must be filled</string>
+    <string name="password_must_be_filled">Password must be filled</string>
+    <string name="email_must_be_filled">Email must be filled</string>
+    <string name="description_must_be_filled">Description must be filled</string>
+    <string name="login_app">Login</string>
+    <string name="enter_password_app">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="icon_empty">Icon Empty</string>
+    <string name="empty_message">No User Favorite</string>
+</resources>
